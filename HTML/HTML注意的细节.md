@@ -24,4 +24,4 @@
 
 7、&lt;aside&gt; 标签定义 article 以外的内容。aside 的内容应该与 article 的内容相关。提示：&lt;aside&gt; 的内容可用作文章的侧栏。
 
-8、脚注写在footer标签（&lt;footer&gt;  &lt;/footer&gt;）中
+8、脚注写在footer标签（&lt;footer&gt;  &lt;/footer&gt;）中 
